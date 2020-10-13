@@ -15,8 +15,8 @@ https://play.google.com/store/apps/details?id=com.linecorp.LGDRPK&hl=zh_TW&gl=US
 預覽
 --------
 <p align="left">
-  <img src="https://i.imgur.com/BoTlOFp.png" width="230"/>
-  <img src="https://i.imgur.com/mFdq6zP.png" width="230"/>
+  <img src="https://i.imgur.com/BoTlOFp.png" height="230"/>
+  <img src="https://i.imgur.com/mFdq6zP.png" height="230"/>
 </p> 
 
 備註
